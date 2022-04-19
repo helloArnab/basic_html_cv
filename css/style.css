@@ -14,3 +14,8 @@ h1,h2,h3{
     color: #66bfbf;
 }
 
+a{
+    text-decoration: none;
+    target: _blank;
+}
+
